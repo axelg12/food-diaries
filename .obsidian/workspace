@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Food diaries.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -66,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Food diaries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,9 +86,9 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Untitled.md",
     "Pasted image 20210221125735.png",
     "Krazy Korean BBQ sósa.md",
-    "Pasted image 20210221125724.png",
-    "Untitled.md"
+    "Pasted image 20210221125724.png"
   ]
 }
