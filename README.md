@@ -10,4 +10,4 @@ These are some of my favorite recipes. Hope you enjoy 🥑
 
 ## [Hakk](Hakk/README.md)
 
-## [Protein powder](Protein%20powder/README.md)
+## [Protein powder](protein/README.md)
