@@ -19,6 +19,6 @@
 -   sesamfræ (ég sleppti en eiga að vera)
 -   smá kornsterkja optional en góð
 
- ![[Pasted image 20210221125735.png]]
+ ![image](Pasted image 20210221125735.png)
 
 Öllu blandað saman , passa að hafa eplin eins lítil og möguleiki er. Hitað og bætt við kornsterkju. Soðið niður i það constistansy sem hentar
