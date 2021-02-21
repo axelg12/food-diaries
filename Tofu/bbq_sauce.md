@@ -1,7 +1,7 @@
 
 # Krazy Korean BBQ sósa
 
-Þetta er sósan úr [Vegan Korean BBQ](Vegan Korean BBQ.md). Hún er geggjuð!!
+Þetta er sósan úr [Vegan Korean BBQ](vegan_korean_bbq.md). Hún er geggjuð!!
 
 - 0.5 dós tómatar
 - eitt epli (allir litir)
