@@ -11,12 +11,14 @@ Tofu er gert úr soya mjólk
 - 8g protein
 
 - 1.9g carbs
- 
+
+## Uppskriftir
+
+- [Krazy Korean BBQ Tofu](Vegan%20Korean%20BBQ.md)
 
 ### Samanburður við Kjúkling
 
 Kjúklingur og Tofu eru bæði protein sem eru bragðlítil ein og sér. Sérstaklega kjúklinga bringa. Tofu er með töluvert minna af calorium og fitu en á sama tíma minni af próteini líka.
 
-  
-
 Tofu er með meira af trefjum, járni, magnezium, calcium og fleira gott stöff.
+
