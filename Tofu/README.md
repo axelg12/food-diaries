@@ -1,10 +1,6 @@
-      
-
 # Tofu
 
 Tofu er gert úr soya mjólk
-
-  
 
 ## næringar innihald per 100g
 
@@ -15,10 +11,7 @@ Tofu er gert úr soya mjólk
 - 8g protein
 
 - 1.9g carbs
-
-  
-
-  
+ 
 
 ### Samanburður við Kjúkling
 
