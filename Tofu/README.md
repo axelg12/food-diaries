@@ -14,7 +14,7 @@ Tofu er gert úr soya mjólk
 
 ## Uppskriftir
 
-- [Krazy Korean BBQ Tofu](vegan_korean_bbq.md)
+- [Korean BBQ Tofu](vegan_korean_bbq.md)
 
 ### Samanburður við Kjúkling
 
