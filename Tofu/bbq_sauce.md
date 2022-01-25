@@ -1,5 +1,5 @@
 
-# Krazy Korean BBQ sósa
+# Korean BBQ sósa
 
 Þetta er sósan úr [Vegan Korean BBQ](vegan_korean_bbq.md). Hún er geggjuð!!
 
