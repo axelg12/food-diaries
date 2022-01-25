@@ -15,6 +15,7 @@ Tofu er gert úr soya mjólk
 ## Uppskriftir
 
 - [Korean BBQ Tofu](vegan_korean_bbq.md)
+- [Vegan/vegiterian ramen](ramen.md)
 
 ### Samanburður við Kjúkling
 
