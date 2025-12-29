@@ -11,3 +11,5 @@ These are some of my favorite recipes. Hope you enjoy 🥑
 ## [Hakk](Hakk/README.md)
 
 ## [Protein powder](protein/README.md)
+
+## [Drinks](drinks/README.md)
