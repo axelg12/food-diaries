@@ -1,20 +1,30 @@
-# Þriggja eggja ommiletta
+# 🍳 Þriggja eggja ommiletta
 
 Mjög prótein rík og góð máltíð. Gott að bæta við grænmeti til að gera hana aðeins meira djúsí. Mér finnst spínat, paprika og tómatar mjög gott.
 
-## Innihald
+---
+
+## 📋 Innihald
 
 - 3 egg
 - Salt og pipar
 - grænmeti / álegg að eigin vali
 - Olía/smjör til að teikja
 
-## næringar innihald (Bara eggin)
+---
 
-- 234 calories
-- 15g fat
-- 18g protein
-- 1.8g carbs
+## 📊 næringar innihald (Bara eggin)
+
+| Næringarefni | Magn |
+|--------------|------|
+| Calories | 234 calories |
+| Fat | 15g fat |
+| Protein | 18g protein |
+| Carbs | 1.8g carbs |
+
+---
+
+## 👨‍🍳 Aðferð
 
 1. Hita pönnuna og meðal lágum hita. Alls ekki of heita!
 2. í skál þarf að hræra saman eggin, með salt og pipar

@@ -1,23 +1,26 @@
-# Tofu
+# 🥘 Tofu
 
 Tofu er gert úr soya mjólk
 
-## næringar innihald per 100g
+## 📊 næringar innihald per 100g
 
-- 76 calories
+| Næringarefni | Magn |
+|--------------|------|
+| Calories | 76 calories |
+| Fat | 4.8g fat |
+| Protein | 8g protein |
+| Carbs | 1.9g carbs |
 
-- 4.8g fat
-
-- 8g protein
-
-- 1.9g carbs
-
-## Uppskriftir
+## 📝 Uppskriftir
 
 - [Korean BBQ Tofu](vegan_korean_bbq.md)
 - [Vegan/vegiterian ramen](ramen.md)
+- [Thai Curry](thai_curry.md)
+- [Korean BBQ sósa](bbq_sauce.md)
 
-### Samanburður við Kjúkling
+---
+
+### 🔄 Samanburður við Kjúkling
 
 Kjúklingur og Tofu eru bæði protein sem eru bragðlítil ein og sér. Sérstaklega kjúklinga bringa. Tofu er með töluvert minna af calorium og fitu en á sama tíma minni af próteini líka.
 

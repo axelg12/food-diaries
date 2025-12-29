@@ -1,6 +1,12 @@
-# Vegan Baileys
+# 🥃 Vegan Baileys
 
 Þetta er mjög gott! Endist ekki að eilífu samt eins og alvöru baileys en mjög gott
+
+> [Sjá nánar](https://simpleveganblog.com/vegan-baileys/)
+
+---
+
+## 📋 Innihald
 
 Uppskrift fyrir 1 líter
 
@@ -10,6 +16,8 @@ Uppskrift fyrir 1 líter
 - 2 kókosrjóma dósir
 - 120ml agave
 
-Allt sett í blender á full force og svo bara í krukku og kæla!
+---
 
-[Sjá nánar](https://simpleveganblog.com/vegan-baileys/)
+## 👨‍🍳 Aðferð
+
+Allt sett í blender á full force og svo bara í krukku og kæla!

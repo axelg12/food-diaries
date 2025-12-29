@@ -1,15 +1,19 @@
-# Axel favorites recipes
+# 🍳 Axel favorites recipes
 
 These are some of my favorite recipes. Hope you enjoy 🥑
 
-## [Tofu](Tofu/README.md)
+---
 
-## [Eggs](Eggs/README.md)
+## 📚 Recipe Categories
 
-## [Kjúklingur](Kjúklingur/README.md)
+### 🥘 [Tofu](Tofu/README.md)
 
-## [Hakk](Hakk/README.md)
+### 🥚 [Eggs](Eggs/README.md)
 
-## [Protein powder](protein/README.md)
+### 🍗 [Kjúklingur](Kjúklingur/README.md)
 
-## [Drinks](Drinks/README.md)
+### 🥩 [Hakk](Hakk/README.md)
+
+### 💪 [Protein powder](protein/README.md)
+
+### 🍹 [Drinks](Drinks/README.md)
