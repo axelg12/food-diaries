@@ -12,4 +12,4 @@ These are some of my favorite recipes. Hope you enjoy 🥑
 
 ## [Protein powder](protein/README.md)
 
-## [Drinks](drinks/README.md)
+## [Drinks](Drinks/README.md)
